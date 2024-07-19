@@ -311,7 +311,7 @@ p, ul {
   flex-wrap: column; /* Allow wrapping for smaller screens */
   justify-content: space-evenly;
   padding-top: 2%;
-  margin-bottom: 10%;
+  margin-bottom: 1%;
   box-shadow: 2px 2px 20px #e6e9ea;
   width: 100%;
   max-width: 800px;
@@ -320,7 +320,7 @@ p, ul {
 }
 
 .Event > .img > img {
-  margin: 5%;
+  margin: 2%;
   width: 100%;
   max-width: 300px;
   height: auto;
